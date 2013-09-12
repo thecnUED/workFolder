@@ -13,7 +13,10 @@
 
 ## CSS
 
-请写一个全站通用按钮组件（可参考[Bootstrap - Button groups](http://getbootstrap.com/2.3.2/components.html#buttonGroups)）
+请写一个全站通用按钮组件
+
+* 要求：简单易用，不需要特别完备，实现思路即可
+* 提示：可参考[Bootstrap - Button groups](http://getbootstrap.com/2.3.2/components.html#buttonGroups)的实现
 
 ## Javascript
 
