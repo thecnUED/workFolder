@@ -7,18 +7,18 @@
 1. 代码规范的建立和工作流的构建
 2. View层
 
-    backbone.layoutManage插件的运用不得当，导致dom渲染顺序无法保证，例如：
+    1. backbone.layoutManage插件的运用不得当，导致dom渲染顺序无法保证，例如：
 
         - afterRender方法不总是在render后触发
         - 先渲染大框架再渲染小部件的方式导致无法在代码内获取到dom的样式信息：在afterRender方法内获取this.$el.height总是0，因为该节点还未插入dom树
 
-    view的搭建数据传递问题：main->box->item->xxx->... 数据传递通过new时的构造函数传给下一个view的init方法，导致嵌套关系太深，信息容易在其中一节丢失
+    2. view的搭建数据传递问题：main->box->item->xxx->... 数据传递通过new时的构造函数传给下一个view的init方法，导致嵌套关系太深，信息容易在其中一节丢失
 
 3. Model层
 
-    - 类继承方式不完善
-    - 没有错误处理机制
-    - 没有最大限度地利用事件驱动方法与view进行协作
+    1. 类继承方式不完善
+    2. 没有错误处理机制
+    3. 没有最大限度地利用事件驱动方法与view进行协作
  
 4. 前后台数据通讯
 
