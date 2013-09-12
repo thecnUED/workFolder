@@ -48,5 +48,5 @@
 
     在51job发布职位或主动联系符合要求的程序员，约定时间进行面试。
 
-2. [面试流程]()
+2. [面试流程](https://github.com/thecnUED/workFolder/blob/master/interview/%E9%9D%A2%E8%AF%95%E6%B5%81%E7%A8%8B.md)
 
