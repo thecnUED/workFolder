@@ -30,7 +30,7 @@
     echo();
     ```
 
-2. 什么是闭包？使用javascript实现下面代码：点击li后alert出当前的index值
+2. 使用原生Javascript实现下面代码：点击li后alert出当前的index值
 
     ```html
     <ul id="target">
