@@ -26,7 +26,7 @@
     var name = 'alvin';
     function echo(){
         alert(name);
-        var name = '21cn';
+        var name = 'elson';
         alert(name);
         alert(age);
     }
