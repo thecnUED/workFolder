@@ -44,7 +44,7 @@
 
 3. 用javascript实现一个简单的数据模型
 
-```javascript
+    ```javascript
     //创建一个Model对象，需要实现的功能：
     var Asset = Model.create();
     var asset = Asset.init();
@@ -61,4 +61,4 @@
 
     var Person = Model.create();
     console.log(Person.find(asset.id).name);//undefined
-```
+    ```
