@@ -7,7 +7,7 @@
 * 要求：用html描诉设计图（不需要完成样式，请添加必要的结构性class）
 * 提示：html语义化，W3C 标准应用
 
-![html test](https://coursenetworking.atlassian.net/secure/attachment/16115/gradebook-item.png)
+![html test](http://bizresponsible.com/images/interview-html.png)
 
 ## CSS
 
